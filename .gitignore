@@ -1,0 +1,5 @@
+.idea
+.gitignore
+.phpunit.result.cache
+composer.lock
+vendor/
